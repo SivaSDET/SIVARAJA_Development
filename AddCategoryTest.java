@@ -44,14 +44,14 @@ public class AddCategoryTest extends BaseClass{
 			addSubCategory(main_cat, sub_cat);
 		}
 		
-//		if(acc.getSubOptions().contains(sub_cat))
-//		{
-//			acc.selectSubCategory(sub_cat);
-//		}
-//		else
-//		{
-//			acc.closePopup();
-//		}
+		if(acc.getSubOptions().contains(sub_cat))
+		{
+			acc.selectSubCategory(sub_cat);
+		}
+		else
+		{
+			acc.closePopup();
+		}
 		
 		
 	}

@@ -9,5 +9,8 @@
 
 
 8. Create User login
-9. Add Wishlist
+
+9. Add Wishlist and quick view in next tab
+
 10. Admin add vendor
+

@@ -6,3 +6,7 @@
 5. TradeVIV Vendor login
 6.  TrdaeVIV VendorCompany Reg
 7. TradeVIV Add product     
+
+
+8. Create User login
+9. Add Wishlist

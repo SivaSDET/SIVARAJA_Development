@@ -10,4 +10,4 @@
 
 8. Create User login
 9. Add Wishlist
-10. Admin add vendor
+10. Admin add vendor and company details
